@@ -1,6 +1,8 @@
 Project Title: Project Chronos: The AI Archeologist
 
-Student Name and ID : 
+Student Name : PARTH NAYYAR
+ID : SE25UDSC079
+   
 
 Project Description : this is an ai tool which uses gemini to reconstruct the user given messy text into a more formal text 
 
